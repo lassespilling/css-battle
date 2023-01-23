@@ -4,6 +4,7 @@
 # Battle #20 - Hover
 ## 119 - Pacman
 [Link to CSS battle](https://cssbattle.dev/play/119)
+
 ![Pacman CSS Battle](https://cssbattle.dev/targets/119.png "#119 - Pacman")
 ### Score:
 * 100% match
